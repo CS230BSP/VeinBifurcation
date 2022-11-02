@@ -56,6 +56,12 @@ def albumentationTransforms(path):
         im.save(augmentation_dir_path + "augmt" + path)
 
 for path in os.listdir(dir_path):
+    if not os.path.exists(processed_dir_path):
+        os.makedirs(processed_dir_path)
+    if not os.path.exists(augmentation_dir_path):
+        os.makedirs(augmentation_dir_path)
+
+
     if os.path.isfile(os.path.join(dir_path, path)):
 
         simpleTransforms(path)
