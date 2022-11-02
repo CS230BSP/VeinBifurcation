@@ -130,3 +130,5 @@ dmypy.json
 
 .DS_Store*
 Icon\r*
+augmented_pics*
+ag_pics*
