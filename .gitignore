@@ -132,3 +132,4 @@ dmypy.json
 Icon\r*
 augmented_pics*
 ag_pics*
+._.*
