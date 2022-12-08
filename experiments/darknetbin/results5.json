@@ -1,0 +1,352 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/test5/WIN_20221107_20_14_16_Pro_jpg.rf.4c5a541d030b69114667a24b0c050a11.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.717389, "center_y":0.566661, "width":0.048252, "height":0.077605}, "confidence":0.383627}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/test5/WIN_20221107_20_18_49_Pro_jpg.rf.8fae3744fd8053df4adb76679bc293b1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/test5/WIN_20221109_18_42_23_Pro_jpg.rf.904b51e00e3510868cc6c508a8ea6e87.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/test5/WIN_20221111_18_39_19_Pro_jpg.rf.44cb4bbce4726aaf5cf4d69052786f0f.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/test5/WIN_20221111_18_39_29_Pro_jpg.rf.8388edee84a60d87f2134fbfb672536f.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/test5/WIN_20221111_18_39_57_Pro_jpg.rf.3029b499bd4360040c3587f81281b9a5.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/test5/WIN_20221111_18_44_18_Pro_jpg.rf.f4bccb382aa7cd48f2c7c9675161d68c.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/test5/WIN_20221111_18_53_20_Pro_jpg.rf.1ee3e9bdd1ba1adf02b02caf51f24b2a.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/test5/WIN_20221111_19_04_25_Pro_jpg.rf.aad0fe269da9d7bc487167d853d2da00.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/test5/WIN_20221111_19_10_47_Pro_jpg.rf.813391334cae647bd558208c2617b457.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/test5/WIN_20221111_19_13_13_Pro_jpg.rf.c37d4ffc1ced68a1bfdb86d54761666f.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/test5/WIN_20221111_19_21_15_Pro_jpg.rf.f90a8707b919698d122c9611af1011cb.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/test5/WIN_20221111_19_24_38_Pro_jpg.rf.d9c9f26f6bb6dd4ce603dad71b0eb0e1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/test5/WIN_20221111_19_31_26_Pro_jpg.rf.75e7ebb99e143326c0e9f12be123df8c.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/test5/WIN_20221111_19_44_39_Pro_jpg.rf.cea056a5bd6ec644662178908396e864.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/test5/WIN_20221111_20_16_51_Pro_jpg.rf.6eb7d4cd21d017692597f9503e31d74b.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/test5/WIN_20221111_20_19_14_Pro_jpg.rf.cbf939ae04974628470168d4c93a247a.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.407118, "center_y":0.433319, "width":0.048790, "height":0.081701}, "confidence":0.272670}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/test5/WIN_20221111_20_19_21_Pro_jpg.rf.f97ffeb0490680543ea380fb8b0a9875.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/test5/WIN_20221111_20_55_03_Pro_jpg.rf.99090841e065f5076ba9e8f5da119b05.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/test5/WIN_20221111_21_01_16_Pro_jpg.rf.d735b35ee110da800f9d19316199ee91.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.492334, "center_y":0.431688, "width":0.046322, "height":0.082610}, "confidence":0.262651}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/test5/WIN_20221113_19_08_44_Pro_jpg.rf.ac2e3bc719077ef36e50ea0576becf0e.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/test5/WIN_20221113_19_15_00_Pro_jpg.rf.66ddbd411a81229b86e0db881f514d59.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/test5/WIN_20221113_19_16_52_Pro_jpg.rf.813267e1267e7a3af5c5f8fda98e7544.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/test5/WIN_20221113_19_25_07_Pro_jpg.rf.98d439e6cf7f0f83d29be103b6e4e5f1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/test5/WIN_20221113_19_26_40_Pro_jpg.rf.c5cadbefe4b0c24722d86fc4af8579eb.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/test5/WIN_20221113_20_12_12_Pro_jpg.rf.ebc3df860f68c3b1ec901f452fef019a.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/test5/WIN_20221113_20_14_57_Pro_jpg.rf.c912bfdaf75a332f80420b6fb289097b.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/test5/WIN_20221113_20_23_31_Pro_jpg.rf.f7e81ad232bcc5070693096e0bd17f3c.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/test5/WIN_20221113_20_35_17_Pro_jpg.rf.71b9b2d0bc79c60c2a5d949882e80961.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/test5/WIN_20221113_20_58_47_Pro_jpg.rf.6f55e21c67a996978d86985c5ddaaafa.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/test5/WIN_20221113_20_59_36_Pro_jpg.rf.47e2326a634ea23811f70c600a3091f4.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/test5/WIN_20221113_21_00_27_Pro_jpg.rf.679191d99260e243daaa6590c70e5cf1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/test5/WIN_20221113_21_04_33_Pro_jpg.rf.0ef65cae303dcf04cd409b459200f517.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/test5/WIN_20221113_21_08_36_Pro_jpg.rf.dfb6ac50838980476b64c1ca26822833.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/test5/WIN_20221113_21_08_51_Pro_jpg.rf.cf286f70d9bc10c77696be3a180cec80.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/test5/WIN_20221117_18_15_04_Pro_jpg.rf.aa3bc859268314acbe268f16676e3e0b.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/test5/WIN_20221117_18_15_50_Pro_jpg.rf.051da468268979fc9d2118c35f5232ca.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/test5/WIN_20221117_18_16_55_Pro_jpg.rf.6ba35dd4fb2a25d1900b2f2884040ce5.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/test5/WIN_20221117_18_19_41_Pro_jpg.rf.69e610f5b3394dcef6de4b2e83977019.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/test5/WIN_20221117_18_35_16_Pro_jpg.rf.bfd85dca01023d1f7b775d42b6c0766d.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/test5/WIN_20221117_18_36_41_Pro_jpg.rf.941c177c625fe91c9b3ceb06e79922a1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/test5/WIN_20221117_18_37_56_Pro_jpg.rf.9183eb4c036f5c4063f367af44c3e3c5.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/test5/WIN_20221117_18_38_58_Pro_jpg.rf.419187582de243a62bf12ca0d2292b46.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/test5/WIN_20221117_18_42_07_Pro_jpg.rf.49c9d701bcf1e5b8718619e65cc2efab.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/test5/WIN_20221117_18_44_26_Pro_jpg.rf.c7fdd092503a50e1915655952acf507d.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/test5/WIN_20221117_18_49_33_Pro_jpg.rf.c15aa568ff6b2afaaa248aac27244aad.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/test5/WIN_20221117_18_50_32_Pro_jpg.rf.88d4f0b3742fec95d546905fc3f0ac51.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/test5/WIN_20221117_18_51_19_Pro_jpg.rf.bb7989beca13d3e0a04c5966a2a62388.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/test5/WIN_20221117_18_52_33_Pro_jpg.rf.cae52e90e249d64e3b81e27452fc7f44.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/test5/WIN_20221117_18_52_40_Pro_jpg.rf.6cb6ee39b3bd50e29c3ec9c5d917ca51.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]

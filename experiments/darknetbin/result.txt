@@ -1,0 +1,112 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 96 K-images (1 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/3_r-L_pass_0_raw_jpg.rf.ef60b24670adf026561107ef873e375f.jpg: Predicted in 354.801000 milli-seconds.
+1. Good: 30%	(left_x:   50   top_y:  278   width:   70   height:   61)
+1. Good: 86%	(left_x:  103   top_y:  183   width:  105   height:   67)
+1. Good: 28%	(left_x:  508   top_y:  142   width:   77   height:   53)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/5_l-L_pass_0_raw_jpg.rf.13ea4c7066d1478950ed19321809a92e.jpg: Predicted in 54.724000 milli-seconds.
+1. Good: 99%	(left_x:   56   top_y:  246   width:   77   height:   60)
+1. Good: 98%	(left_x:  265   top_y:  222   width:   85   height:   49)
+1. Good: 64%	(left_x:  267   top_y:    6   width:   90   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/6_r-L_pass_0_raw_jpg.rf.6fb5ff79898f82d81b8b890657cf6037.jpg: Predicted in 54.618000 milli-seconds.
+1. Good: 65%	(left_x:   16   top_y:  196   width:  110   height:   92)
+1. Good: 35%	(left_x:  587   top_y:   -2   width:   57   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/7_l-L_pass_0_raw_jpg.rf.f28be1acca660aa929e1940baf5d29a0.jpg: Predicted in 48.963000 milli-seconds.
+1. Good: 96%	(left_x:  298   top_y:  131   width:  118   height:   87)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/8_r-L_pass_0_raw_jpg.rf.df2af0efe33d96457efb8df914073bdb.jpg: Predicted in 48.992000 milli-seconds.
+1. Good: 95%	(left_x:  193   top_y:   22   width:  112   height:   72)
+1. Good: 84%	(left_x:  271   top_y:  149   width:  125   height:   63)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/10_l-L_pass_0_raw_jpg.rf.ddb074d2707dfc2a3dc05094f2d6e0b3.jpg: Predicted in 48.917000 milli-seconds.
+1. Good: 56%	(left_x:   29   top_y:  368   width:   78   height:   41)
+1. Good: 94%	(left_x:  113   top_y:  169   width:  114   height:   65)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/14_r-L_pass_0_raw_jpg.rf.68a505dca8ba7232ffe824284c06f949.jpg: Predicted in 48.923000 milli-seconds.
+1. Good: 94%	(left_x:  101   top_y:    8   width:  109   height:   69)
+1. Good: 41%	(left_x:  357   top_y:  239   width:   79   height:   48)
+1. Good: 57%	(left_x:  397   top_y:  174   width:   91   height:   53)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/16_r-L_pass_0_raw_jpg.rf.b028e3e9ab9f31caab7391eb555faa0e.jpg: Predicted in 49.886000 milli-seconds.
+1. Good: 59%	(left_x:  450   top_y:  455   width:   75   height:   55)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/17_r-L_pass_0_raw_jpg.rf.1c8c90432241a8efb5ccf20f4a673ea2.jpg: Predicted in 48.961000 milli-seconds.
+1. Good: 72%	(left_x:  230   top_y:    2   width:   92   height:   44)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/18_l-L_pass_0_raw_jpg.rf.db9d9d7ff068a0bfec4926f756e09ab9.jpg: Predicted in 48.952000 milli-seconds.
+1. Good: 42%	(left_x:  132   top_y:  212   width:   62   height:   38)
+1. Good: 99%	(left_x:  387   top_y:  153   width:   64   height:   53)
+1. Good: 94%	(left_x:  429   top_y:   82   width:   75   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/22_r-L_pass_0_raw_jpg.rf.8363c6dd1290878cf42f121377a60a2c.jpg: Predicted in 48.903000 milli-seconds.
+1. Good: 88%	(left_x:   25   top_y:  134   width:   91   height:   67)
+1. Good: 67%	(left_x:  166   top_y:   16   width:   78   height:   54)
+1. Good: 75%	(left_x:  207   top_y:  126   width:   73   height:   52)
+1. Good: 40%	(left_x:  229   top_y:  449   width:  102   height:   35)
+1. Good: 37%	(left_x:  511   top_y:  344   width:  100   height:   64)
+1. Good: 55%	(left_x:  570   top_y:   -1   width:   64   height:   87)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/23_r-L_pass_0_raw_jpg.rf.2fb8de9adb33ee26e6b58a3242503d84.jpg: Predicted in 48.883000 milli-seconds.
+1. Good: 93%	(left_x:  237   top_y:   39   width:  113   height:   72)
+1. Good: 38%	(left_x:  474   top_y:  230   width:   97   height:   64)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/27_r-L_pass_0_raw_jpg.rf.e1ee4b75bdcac2d01beeb2657a84a208.jpg: Predicted in 48.840000 milli-seconds.
+1. Good: 62%	(left_x:  587   top_y:  238   width:   51   height:   55)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/28_l-L_pass_0_raw_jpg.rf.985fc3478809e4eed8b6773020551b1d.jpg: Predicted in 48.886000 milli-seconds.
+1. Good: 34%	(left_x:  192   top_y:  364   width:   84   height:   52)
+1. Good: 45%	(left_x:  204   top_y:  156   width:   82   height:   63)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/kevin_1-L_pass_0_raw_jpg.rf.a307072ff703c21057e5c856a8b8cc83.jpg: Predicted in 48.892000 milli-seconds.
+1. Good: 95%	(left_x:  487   top_y:  202   width:   73   height:   51)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/reuben_2-L_pass_0_raw_jpg.rf.a764178fde20d0ac612e05d61733bb6b.jpg: Predicted in 48.827000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/sonny_1-L_pass_0_raw_jpg.rf.3bdabfe7076bb1d689456a5f8f9e2810.jpg: Predicted in 48.872000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/sonny_2-L_pass_0_raw_jpg.rf.e4974e21e9c2d6bbc02dfa214bad878e.jpg: Predicted in 49.656000 milli-seconds.
+Enter Image Path: 

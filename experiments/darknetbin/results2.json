@@ -1,0 +1,157 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/test/3_r-L_pass_0_raw_jpg.rf.ef60b24670adf026561107ef873e375f.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.856624, "center_y":0.261029, "width":0.099716, "height":0.072733}, "confidence":0.442636}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.443644, "center_y":0.245899, "width":0.088495, "height":0.056432}, "confidence":0.344067}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/test/5_l-L_pass_0_raw_jpg.rf.13ea4c7066d1478950ed19321809a92e.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.481157, "center_y":0.386770, "width":0.107093, "height":0.072688}, "confidence":0.740851}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.716858, "center_y":0.283941, "width":0.106176, "height":0.083342}, "confidence":0.656817}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.145419, "center_y":0.421701, "width":0.107311, "height":0.078915}, "confidence":0.454110}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.490984, "center_y":0.055368, "width":0.118171, "height":0.064409}, "confidence":0.299648}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/test/6_r-L_pass_0_raw_jpg.rf.6fb5ff79898f82d81b8b890657cf6037.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.463984, "center_y":0.236916, "width":0.105844, "height":0.068152}, "confidence":0.663113}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.365984, "center_y":0.255600, "width":0.091731, "height":0.074255}, "confidence":0.477882}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.635686, "center_y":0.396871, "width":0.101259, "height":0.074841}, "confidence":0.457648}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/test/7_l-L_pass_0_raw_jpg.rf.f28be1acca660aa929e1940baf5d29a0.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.232960, "center_y":0.513072, "width":0.086876, "height":0.066150}, "confidence":0.472250}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.393598, "center_y":0.533211, "width":0.117651, "height":0.073763}, "confidence":0.459387}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/test/8_r-L_pass_0_raw_jpg.rf.df2af0efe33d96457efb8df914073bdb.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.403976, "center_y":0.084784, "width":0.097703, "height":0.070827}, "confidence":0.448969}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.953563, "center_y":0.386769, "width":0.076845, "height":0.069094}, "confidence":0.270947}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/test/10_l-L_pass_0_raw_jpg.rf.ddb074d2707dfc2a3dc05094f2d6e0b3.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.969302, "center_y":0.336993, "width":0.058288, "height":0.104139}, "confidence":0.321593}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.466405, "center_y":0.360407, "width":0.081149, "height":0.061277}, "confidence":0.252939}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/test/14_r-L_pass_0_raw_jpg.rf.68a505dca8ba7232ffe824284c06f949.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.619388, "center_y":0.407748, "width":0.111505, "height":0.071578}, "confidence":0.781495}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.787290, "center_y":0.359104, "width":0.098846, "height":0.074163}, "confidence":0.710328}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.242277, "center_y":0.071207, "width":0.117650, "height":0.084150}, "confidence":0.523730}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.694544, "center_y":0.310328, "width":0.125862, "height":0.079835}, "confidence":0.440175}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/test/16_r-L_pass_0_raw_jpg.rf.b028e3e9ab9f31caab7391eb555faa0e.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.779282, "center_y":0.742323, "width":0.095070, "height":0.061172}, "confidence":0.470960}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.315158, "center_y":0.032068, "width":0.125570, "height":0.068630}, "confidence":0.432903}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.957228, "center_y":0.117633, "width":0.088152, "height":0.079664}, "confidence":0.384039}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/test/17_r-L_pass_0_raw_jpg.rf.1c8c90432241a8efb5ccf20f4a673ea2.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.432298, "center_y":0.031295, "width":0.120729, "height":0.066060}, "confidence":0.441862}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.340338, "center_y":0.313282, "width":0.103928, "height":0.082624}, "confidence":0.416602}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.622703, "center_y":0.427865, "width":0.159495, "height":0.111000}, "confidence":0.349662}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/test/18_l-L_pass_0_raw_jpg.rf.db9d9d7ff068a0bfec4926f756e09ab9.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.653027, "center_y":0.287766, "width":0.095127, "height":0.090963}, "confidence":0.406522}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.040650, "center_y":0.032385, "width":0.100486, "height":0.057428}, "confidence":0.369677}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.555764, "center_y":0.456846, "width":0.080873, "height":0.080599}, "confidence":0.364719}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.256651, "center_y":0.360711, "width":0.096099, "height":0.063736}, "confidence":0.303841}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.231109, "center_y":0.728172, "width":0.114238, "height":0.066065}, "confidence":0.298740}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.729326, "center_y":0.168283, "width":0.119173, "height":0.071428}, "confidence":0.286444}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/test/22_r-L_pass_0_raw_jpg.rf.8363c6dd1290878cf42f121377a60a2c.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.854691, "center_y":0.338239, "width":0.096196, "height":0.069155}, "confidence":0.425114}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.320013, "center_y":0.066551, "width":0.100635, "height":0.074176}, "confidence":0.402774}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.107492, "center_y":0.260616, "width":0.117281, "height":0.074899}, "confidence":0.389668}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/test/23_r-L_pass_0_raw_jpg.rf.2fb8de9adb33ee26e6b58a3242503d84.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.811967, "center_y":0.409283, "width":0.105440, "height":0.067495}, "confidence":0.615795}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/test/27_r-L_pass_0_raw_jpg.rf.e1ee4b75bdcac2d01beeb2657a84a208.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.956162, "center_y":0.413069, "width":0.076034, "height":0.074269}, "confidence":0.676475}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.292990, "center_y":0.644440, "width":0.080550, "height":0.056538}, "confidence":0.543023}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.513905, "center_y":0.534101, "width":0.091030, "height":0.065831}, "confidence":0.542414}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.911274, "center_y":0.662690, "width":0.078960, "height":0.068798}, "confidence":0.432728}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.789044, "center_y":0.064473, "width":0.094144, "height":0.086287}, "confidence":0.269470}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/test/28_l-L_pass_0_raw_jpg.rf.985fc3478809e4eed8b6773020551b1d.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.579176, "center_y":0.185033, "width":0.087298, "height":0.072981}, "confidence":0.389022}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.055005, "center_y":0.379791, "width":0.091083, "height":0.080904}, "confidence":0.350641}, 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.407617, "center_y":0.286934, "width":0.119759, "height":0.069628}, "confidence":0.316478}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/test/kevin_1-L_pass_0_raw_jpg.rf.a307072ff703c21057e5c856a8b8cc83.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/test/reuben_2-L_pass_0_raw_jpg.rf.a764178fde20d0ac612e05d61733bb6b.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"1. bifurcation", "relative_coordinates":{"center_x":0.287118, "center_y":0.492540, "width":0.117011, "height":0.074536}, "confidence":0.534715}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/test/sonny_1-L_pass_0_raw_jpg.rf.3bdabfe7076bb1d689456a5f8f9e2810.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/test/sonny_2-L_pass_0_raw_jpg.rf.e4974e21e9c2d6bbc02dfa214bad878e.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]
